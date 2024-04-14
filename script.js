@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function getRandomImageURL() {
         const imageName = getRandomImageName();
-        return `image/${imageName}`;
+        return `images/${imageName}`;
     }
 
     function showLoadingAnimation() {
