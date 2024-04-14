@@ -3,7 +3,7 @@
     position: relative;
     margin: 30px auto; /* Центрируем контейнер по вертикали и горизонтали */
     border: 4px solid black;
-    max-width: 400px; /* Ограничиваем максимальную ширину контейнера */
+    max-width: 400px; 
     display: flex;
 }
 
